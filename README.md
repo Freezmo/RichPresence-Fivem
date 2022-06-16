@@ -10,13 +10,20 @@ git clone https://github.com/Freezmo/Discord-RichPresence [scripts]/FZ_RichPrese
 ```
 
 ### Manually
-- Download the git repository https://github.com/man0s/ReducedNPCs/archive/master.zip
-- Put it in the `[scripts]` directory
+- Télécharger le dépôt git https://github.com/Freezmo/RichPresence-Fivem.git
+- Mettez-le dans le dossier `[scripts]`
 
 ## Installation
-The script's default density value is 0.5, you can change it by editing the variable `DensityMultiplier` in `client.lua` file.
-- Add this in your `server.cfg`:
+- Remplacer 'IdAPI' par l'application ID de votre application discord
+- Ajouter `ensure FZ_RichPresence` dans votre `server.cfg`:
+
+## Installation Video
+
+https://www.youtube.com/watch?v=SOON
 
 ```
-start reducednpcs
+ensure FZ_RichPresence
 ```
+
+Pour toute demande contactez moi par discord
+FZ Freezmo#4483
