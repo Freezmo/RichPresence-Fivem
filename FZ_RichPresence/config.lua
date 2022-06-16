@@ -1,12 +1,12 @@
 Citizen.CreateThread(function()
 	while true do
-		SetDiscordAppId('825333311177490493')
+		SetDiscordAppId('IdAPI')
 		SetDiscordRichPresenceAsset('logo-1')
-        SetDiscordRichPresenceAssetText('ZibiluRP')
+        SetDiscordRichPresenceAssetText('Name')
         SetDiscordRichPresenceAssetSmall('logo-2')
-        SetDiscordRichPresenceAssetSmallText('discord.gg/JqVtea5W4k')
-        SetDiscordRichPresenceAction(0, "Jouer 🎮", "fivem://connect/cfx.re/join/8b7kbv")
-        SetDiscordRichPresenceAction(1, "Discord 🔔", "https://discord.gg/JqVtea5W4k")
+        SetDiscordRichPresenceAssetSmallText('discord.gg/?????????')
+        SetDiscordRichPresenceAction(0, "Jouer 🎮", "fivem://connect/cfx.re/join/?????")
+        SetDiscordRichPresenceAction(1, "Discord 🔔", "https://discord.gg/?????????")
 		Citizen.Wait(60000)
 	end
 end)
